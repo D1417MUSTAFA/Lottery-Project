@@ -108,7 +108,7 @@ h1:hover{
 }
 .footer:hover{
     color: blue;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     color:yellow;
     border-radius: 10px;
 
